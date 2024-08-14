@@ -19,7 +19,8 @@ header nav ul{
 header nav ul li{
     list-style-type: none;
     margin: 20px;
-    font-family: "Montserrat", sans-serif;
+    font-family: var(--secondary-font); 
+    font-size:22px;
 }
 
 

@@ -1,0 +1,34 @@
+
+
+.span_primeira_div{
+    width:482px;
+}
+
+h1{
+    font-size:42px;
+    font-family: var(--primary-font);
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom:10px;
+}
+
+#font_azul_titulo{
+    color:var(--azulclaro-color);
+}
+
+#botao_menu{
+    width: 280px;
+    border-radius:40px;
+    border:none;
+    background-color:var(--azulescuro-color);
+    padding: 16px 24px 16px 24px;
+    font-family: var(--secondary-font);
+    font-size:24px;
+    font-weight: 700;
+    color:#ffffff;
+    margin-top:20px;
+}
+
+.primeira_div img{
+    height:467.46px;
+}

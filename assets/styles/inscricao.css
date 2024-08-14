@@ -1,0 +1,17 @@
+.inscricao{
+    display:flex;
+    background-color:#ffffff;
+    padding: 10px;
+    flex-direction: column;
+    align-items:center;
+}
+
+.inscricao h2{
+    font-family: var(--primary-font);
+    margin:6px;
+}
+
+.inscricao input{
+    border-radius:32px;
+    border:1px solid var(--azulclaro-color);
+}

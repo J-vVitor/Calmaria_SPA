@@ -1,0 +1,39 @@
+.terceira_section{  
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    background: linear-gradient(180deg, #E8F5C8 , #ffffff);
+}
+
+.box_divisorio{
+    margin-top:30px;
+    border:2px solid #ffffff;
+    display:flex;
+    flex-direction:column;
+    border-radius:32px;
+    align-items: center;
+    width: 360px;
+    height:360px;
+    padding:30px;
+    background-color:#F2F7F0;
+
+}
+
+.box_img_servico{
+    height: 60px;
+    margin: 10px;
+}
+
+.box_img_estrela{
+    height: 30px;
+    margin: 10px;
+}   
+
+.box_divisorio h3{
+    font-family:var(--primary-font);
+    font-size:20px;
+}
+.box_divisorio p{
+    font-family:var(--secondary-font);
+    font-size:18px;
+}

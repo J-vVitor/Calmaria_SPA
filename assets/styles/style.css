@@ -1,5 +1,15 @@
 @import url(header.css);
-
+@import url(main.css);
+@import url(primeira_section.css);
+@import url(segunda_section.css);
+@import url(terceira_section.css);
+@import url(inscricao.css);
+:root {
+    --primary-font: "Krona One", sans-serif;
+    --secondary-font: "Montserrat", sans-serif;
+    --azulclaro-color:#4E75FF;
+    --azulescuro-color:#4163DA;
+}
 
 *{
     margin:0;

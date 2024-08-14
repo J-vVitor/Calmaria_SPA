@@ -1,0 +1,51 @@
+.segunda_div{
+    margin-top: 40px;
+    background: linear-gradient(180deg, #E8F5C8 , #ffffff);
+}
+
+
+.divs_laterais{
+    width: 30%;
+}
+
+.divs_laterais h3{
+    font-size:20px;
+    font-family: var(--primary-font);
+    margin-bottom: 10px;
+    color: var(--azulclaro-color);
+}
+
+.divs_laterais p{
+    font-family:var(--secondary-font);
+}
+
+#segunda_div_primeira_img{
+    height: 300px;
+}
+
+#segunda_div_segunda_img{
+    height:250px;
+}
+
+.section_conhecimento{
+    display: flex;
+    align-items: center;
+}
+
+
+.div_lateral_direita{
+   margin-left: 10%;
+}
+.div_lateral_esquerda{
+   margin-right: 14%;
+}
+
+.separador{
+    width:100%;
+    margin-top:10px;
+}
+
+
+.segunda_div_segunda_img{
+    margin: 6px;
+}
