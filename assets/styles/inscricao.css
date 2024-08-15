@@ -1,17 +1,54 @@
 .inscricao{
     display:flex;
+    flex-direction: row;
     background-color:#ffffff;
-    padding: 10px;
+    justify-content: space-between;
+}
+
+.inscricao_div{
     flex-direction: column;
     align-items:center;
 }
 
 .inscricao h2{
     font-family: var(--primary-font);
-    margin:6px;
+}
+
+.inscricao p{
+    font-family:var(--secondary-font);
+    margin: 20px;
 }
 
 .inscricao input{
     border-radius:32px;
     border:1px solid var(--azulclaro-color);
+    padding:10px;
+    height:40px;
+    width: 50%;
+    font-size:20px;
+}
+
+.inscricao div{
+    width: 79%;
+    display:flex;
+    justify-content: center;
+}
+
+
+.inscricao button{
+    border-radius:0px 32px 32px 0px;
+    padding: 10px;
+    width: 20%;
+    position: relative;
+    right: 4%;
+    background-color: var(--azulclaro-color);
+    border: none;
+    color:#ffffff;
+    font-weight: 700;
+    font-size:17px;
+}
+
+.inscricao input::placeholder{
+    font-size:17px;
+    font-family: var(--secondary-font);
 }

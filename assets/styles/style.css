@@ -4,6 +4,8 @@
 @import url(segunda_section.css);
 @import url(terceira_section.css);
 @import url(inscricao.css);
+@import url(section_contato.css);
+@import url(footer.css);
 :root {
     --primary-font: "Krona One", sans-serif;
     --secondary-font: "Montserrat", sans-serif;

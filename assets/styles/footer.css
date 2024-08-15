@@ -1,0 +1,10 @@
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    flex-direction: column;
+    font-style: italic;
+    font-weight: 400;
+    font-family: var(--secondary-font);
+}
