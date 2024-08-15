@@ -29,6 +29,10 @@ h1{
     margin-top:20px;
 }
 
+#botao_menu:hover{
+    background-color: var(--azulclaro-color);
+}
+
 .primeira_div img{
     height:467.46px;
 }
