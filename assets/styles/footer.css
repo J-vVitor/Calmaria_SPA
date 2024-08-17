@@ -8,3 +8,13 @@ footer{
     font-weight: 400;
     font-family: var(--secondary-font);
 }
+
+
+footer ul{
+    display: flex;
+    justify-content: center;
+}
+
+footer ul li{
+    list-style-type:none;
+}

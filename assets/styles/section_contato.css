@@ -47,7 +47,7 @@
 }
 
 
-.formulario_contato form h2{
+.formulario_contato form h4{
     font-family: var(--primary-font);
     color:var(--azulclaro-color);
 }
@@ -56,6 +56,7 @@
     font-family:var(--secondary-font);
     margin:10px 0px 10px 0px;
     width: 90%;
+    font-size:15px;
 }
 
 form label p{
