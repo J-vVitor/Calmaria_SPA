@@ -59,10 +59,11 @@
     font-size:15px;
 }
 
-form label p{
+form fieldset{
     font-family:var(--secondary-font);
     font-weight: 600;
     font-size: 14px;
+    border:none
 }
 
 form label{
